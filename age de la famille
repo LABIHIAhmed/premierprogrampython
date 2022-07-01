@@ -1,0 +1,12 @@
+x=2008
+y=2022
+print    (y-x)   
+print    ("age de  ahmed")
+t=2007
+r=2022
+print  (r-t)
+print  ("age de ayman")
+d=2005
+f=2022
+print  (f-d)
+print   ("age de asma")
